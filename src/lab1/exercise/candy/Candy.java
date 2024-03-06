@@ -11,17 +11,6 @@ public class Candy {
 
 
 
-//           double[] arrayInitial = {10.0, 20.0, 30.0, 40.0};
-//           double nr = 5.0;
-//
-//           double[] rezultat = impartireArray(arrayInitial, nr);
-//
-//           // Afiseaza array-ul rezultat
-//           for (double valoare : rezultat) {
-//               System.out.println(valoare);
-//           }
-
-
    }
 
     public static int reminder(int m, int[] bags) {
@@ -33,14 +22,5 @@ public class Candy {
         return sum % m;
     }
 
-//    public static double[] impartireArray(double[] array, double nr) {
-//        double[] rezultat = new double[array.length]; // Inițializează un array cu aceeași lungime ca și array-ul dat
-//
-//        for (int i = 0; i < array.length; i++) {
-//            rezultat[i] = array[i] / nr; // Efectuează împărțirea și stochează rezultatele în array-ul rezultat
-//        }
-//
-//        return rezultat; // Returnează array-ul rezultat
-//    }
 
 }

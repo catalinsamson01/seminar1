@@ -4,6 +4,8 @@ import java.util.List;
 
 public class Splitter {
 
+//    VARIANTA 2
+
     public void split (String[] kingdoms, List<String> aliceKingdoms, List<String> bobKingdoms){
         
         for (String str : kingdoms) {
